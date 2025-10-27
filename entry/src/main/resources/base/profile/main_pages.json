@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/Reg",
+    "pages/Pasw",
+    "components/My_edit",
+    "components/Home_kd",
+    "components/Home_kd_Time",
+    "components/Home_lj",
+    "components/AnnouncementDetail",
+    "components/Home_clear",
+    "components/Home_clearDetail",
+    "components/ForgotPassword"
+  ]
+}
